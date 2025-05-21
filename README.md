@@ -1,5 +1,5 @@
 ## Welcome to my Github page!  👋
-I studied Electric Engineering at National Chung Hsing University from 2019 ~ 2024.
+I studied Electric Engineering at National Chung Hsing University from 2019 ~ 2024.  
 I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  
 
 <!--

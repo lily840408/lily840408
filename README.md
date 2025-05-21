@@ -1,4 +1,6 @@
-## Hi there 👋123
+## Welcome to my Github page!  👋
+I studied Electric Engineering at National Chung Hsing University from 2019 ~ 2024
+
 
 <!--
 **lily840408/lily840408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,0 +1,23 @@
+# GitHub 上傳步驟
+
+Step 01 : 取得帳號
+
+Step 02 : 產生SSH key (在安裝GitHub的路徑裡，須貼黏到Git的個人設定頁面中)
+
+Step 03 : 在電腦端設定使用者名稱和email
+
+Step 04 :  在網站端建立專案，記得選擇license
+
+Step 05:  進行資料夾與網站的連結
+                  1) 在網站端，專案中右上角(綠色)複製ssh連結
+                  2) 在電腦端，創建資料夾
+                       > git clone [網站上的ssh]
+                  3) 查看站存檔的資料
+                       > git status
+                  3) 加入上傳檔案到暫存器
+                       > git add [想上傳的檔案]
+
+                       > git commit -m “UpdataExample”
+                       > git status
+                  4) 檔案上傳至網路，完成
+                       > git push
